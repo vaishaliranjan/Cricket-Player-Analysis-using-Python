@@ -6,13 +6,20 @@ The data can be analyzed and provide beautiful insights. We can see total runs s
 ### :woman_technologist: Tools & Technlogies Used
 
 Tools and technologies used:
-• Language:
+- Language
+<br>
 ➢ Python
-• Integrated Development Environment:
+<br>
+- Integrated Development Environment
+- <br>
 ➢ Spyder IDE
-• Algorithms used:
+<br>
+- Algorithms used
+- <br>
 ➢ Pandas
+<br>
 ➢ Numpy
+<br>
 ➢ Plotly Python Library
 
 ---
